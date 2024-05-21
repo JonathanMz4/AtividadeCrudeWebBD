@@ -13,5 +13,8 @@ namespace AtividadeCrudeWebBD.Models
         public DateTime DataDeCompra { get; set; }
         public Produto Produto { get; set; }
 
+
+        
+
     }
 }
